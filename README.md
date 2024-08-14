@@ -1,4 +1,7 @@
-# Mattermost Docker
+This is a forked and a modified docker compose configuration for running Mattermost behind
+Traefik proxy as part of the IT infrastructure for a humanitarian workgroup.
+
+# Mattermost Docker (Original Documentation)
 The official Docker deployment solution for Mattermost.
 
 ## Install & Usage
